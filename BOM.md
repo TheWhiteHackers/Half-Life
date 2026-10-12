@@ -17,7 +17,7 @@
 | [MX Switches](https://www.amazon.com/gp/product/B0H1WZVGMX/ref=ox_sc_act_title_1?smid=A1LG9GTY1UJE9S&psc=1) | For the buttons | 1 | $3.39 | $3.39 | [amazon](https://www.amazon.com/gp/product/B0H1WZVGMX/ref=ox_sc_act_title_1?smid=A1LG9GTY1UJE9S&psc=1) |
 | [Resistor](https://amazon.com/gp/product/B0B4JFPHTW/ref=ox_sc_act_title_1?smid=A2XLLJ8HYD6SMA&psc=1) | Limits current | 1 | $4.97 | $4.97 | [amazon](https://amazon.com/gp/product/B0B4JFPHTW/ref=ox_sc_act_title_1?smid=A2XLLJ8HYD6SMA&psc=1) |
 | **Parts subtotal** | — | — | — | **$22.94** | — |
-| **Tax & shipping** | — | — | — | **$6.20** | — |
-| **Total** | — | — | — | **$29.14** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$22.94** | — |
 
-$0.86 left of the tier's funding.
+$7.06 left of the tier's funding.
