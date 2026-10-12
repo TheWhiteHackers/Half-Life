@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Microcontroller | 1 | $4.99 | $4.99 | [seeedstudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | **Parts subtotal** | — | — | — | **$4.99** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$4.99** | — |
+| **Tax & shipping** | — | — | — | **$6.20** | — |
+| **Total** | — | — | — | **$11.19** | — |
 
-$25.01 left of the tier's funding.
+$18.81 left of the tier's funding.
