@@ -4,8 +4,8 @@
 ## Part of the Half Life program!
 
 Schematic Editor
-![schematic editor]()
+![schematic editor](imgs/schematiceditor.png)
 
 PCB Editor
-![pcb editor]()
+![pcb editor](imgs/pcbeditor.png)
 
